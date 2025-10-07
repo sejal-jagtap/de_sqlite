@@ -11,7 +11,7 @@ The project covers:
   
 ---
 
-## 🔍 Data Exploration Summary  
+## 🔍 Data Exploration Summary 
 ### 1. **Initial Dataset Inspection**
 - Viewed the first few rows of the dataset to confirm column names and data integrity.  
 - Counted the **total number of universities** and the **number of unique countries** represented.
@@ -42,6 +42,7 @@ The project covers:
 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/e46da1c7-8630-4c7f-9cef-5629829d98f3" />
 
+Note: For full results snapshots please refer images in query_results/
 ---
 
 ## ⚙️ CRUD Operations
