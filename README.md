@@ -41,7 +41,7 @@ The project covers:
 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/e46da1c7-8630-4c7f-9cef-5629829d98f3" />
 
-#### Note: For full results snapshots, please refer to the images in query_results/
+#### Note: For full result snapshots, please refer to the images in query_results/
 ---
 
 ## ⚙️ CRUD Operations
