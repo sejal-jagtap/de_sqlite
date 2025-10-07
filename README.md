@@ -24,7 +24,7 @@ The project covers:
 
 1. Open DBeaver and click **Database → New Database Connection**.  
 2. Select **SQLite** from the list of available database types.  
-3. Choose your local `.db` file (e.g., `university_rankings.db`).  
+3. Choose your local `.db` file (e.g., `university_database.db`).  
 4. Once connected, open a new **SQL Editor** and run the provided queries (`sql_queries.sql`).   
 5. Explore data using the built-in Data tab to inspect record changes.
 
@@ -32,7 +32,7 @@ The project covers:
 
 1. Install the **SQLite** and **SQLTools** extensions in VS Code.  
 2. Open your project folder (`de_sqlite`).  
-3. Connect to the SQLite database file (`university_rankings.db`).  
+3. Connect to the SQLite database file (`university_database.db`).  
 4. Open the `.sql` file (e.g., `sql_queries.sql`) and run statements directly using **“Run Query”**.  
 5. View results in the output panel or via the SQLTools results tab.  
 6. Save changes automatically reflected in the same `.db` file.
