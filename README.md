@@ -16,7 +16,7 @@ The project covers:
 - Viewed the first few rows of the dataset to confirm column names and data integrity.  
 - Counted the **total number of universities** and the **number of unique countries** represented.
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/307a2d6a-005d-41fa-a136-0f21894ce2ce" />
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/307a2d6a-005d-41fa-a136-0f21894ce2ce" />
 
 <img width="200" height="50" alt="image" src="https://github.com/user-attachments/assets/4ad2a0bb-e90b-4918-b2ed-f70fcb7c7cf7" />
 
