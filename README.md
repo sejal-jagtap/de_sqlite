@@ -61,11 +61,11 @@ The project covers:
 - Determined the **top-performing university in each country** based on average score across all available years.  
 - Counted how many universities from each country ranked within the **global top 100**, providing a global competitiveness view.
 
-<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/65075be9-0a2d-447c-99b9-5b9fb1c1fcd4" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/65075be9-0a2d-447c-99b9-5b9fb1c1fcd4" />
 
-<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/c3f26434-62df-4f41-8199-d845bf64f8a8" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/c3f26434-62df-4f41-8199-d845bf64f8a8" />
 
-<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/e46da1c7-8630-4c7f-9cef-5629829d98f3" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/e46da1c7-8630-4c7f-9cef-5629829d98f3" />
 
 #### Note: For full result snapshots, please refer to the images in query_results/
 ---
