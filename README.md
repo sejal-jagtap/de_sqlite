@@ -8,7 +8,33 @@ The project covers:
 - Exploratory Data Analysis (EDA)
 - CRUD (Create, Read, Update, Delete) operations
 - Database updates and cleanup
-  
+
+## 📁 Project Structure
+
+    de_sqlite/
+    |-- README.md
+    |-- query_results
+    |-- sql_queries.sql
+    `-- university_database.db
+---
+
+## ⚙️ Environment Setup
+
+### Option 1 — Using **DBeaver**
+1. Open DBeaver and click **Database → New Database Connection**.  
+2. Select **SQLite** from the list of available database types.  
+3. Choose your local `.db` file (e.g., `university_rankings.db`).  
+4. Once connected, open a new **SQL Editor** and run the provided queries (`sql_queries.sql`).   
+5. Explore data using the built-in Data tab to inspect record changes.
+
+### Option 2 — Using **VS Code with SQLite**
+1. Install the **SQLite** and **SQLTools** extensions in VS Code.  
+2. Open your project folder (`de_sqlite`).  
+3. Connect to the SQLite database file (`university_rankings.db`).  
+4. Open the `.sql` file (e.g., `sql_queries.sql`) and run statements directly using **“Run Query”**.  
+5. View results in the output panel or via the SQLTools results tab.  
+6. Save changes automatically reflected in the same `.db` file.
+
 ---
 
 ## 🔍 Data Exploration Summary 
@@ -99,36 +125,9 @@ The project covers:
 
 ---
 
-## ⚙️ Environment Setup
 
-### Option 1 — Using **DBeaver**
-1. Open DBeaver and click **Database → New Database Connection**.  
-2. Select **SQLite** from the list of available database types.  
-3. Choose your local `.db` file (e.g., `university_rankings.db`).  
-4. Once connected, open a new **SQL Editor** and run the provided queries (`sql_queries.sql`).   
-5. Explore data using the built-in Data tab to visually inspect table changes.
 
-### Option 2 — Using **VS Code with SQLite**
-1. Install the **SQLite** and **SQLTools** extensions in VS Code.  
-2. Open your project folder (`de_sqlite`).  
-3. Connect to the SQLite database file (`university_rankings.db`).  
-4. Open the `.sql` file (e.g., `sql_queries.sql`) and run statements directly using **“Run Query”**.  
-5. View results in the output panel or via the SQLTools results tab.  
-6. Save changes automatically reflected in the same `.db` file.
 
----
 
-## 📁 Project Structure
 
-de_sqlite
-|-- README.md
-|-- query_results
-|-- sql_queries.sql
-`-- university_database.db
 
-de_sqlite/
-├── university_rankings.db
-├── exploration.sql
-├── crud_operations.sql
-├── README.md
-└── assets/
