@@ -50,17 +50,32 @@ The project covers:
 - Inserted a new entry for **Duke Tech** (USA) with a **world rank of 350** and **score of 60.5** for **2014**.  
 - Verified the new row by viewing 2014 rankings.
 
+**Explanation:**  
+- The `INSERT INTO` statement was used to add a new row.  
+- All required columns (institution, country, world_rank, year, score) were populated.  
+- The new entry was verified by querying all 2014 records and checking for the new institution.
+
+
 <img width="838" height="78" alt="image" src="https://github.com/user-attachments/assets/94b34aaf-dba1-4c95-9f66-9acdb39209fe" />
 
 ### 2. **READ: Counting Japanese Universities in Top 200 (2013)**  
 - Retrieved the total number of universities from **Japan** ranked within the **top 200** globally in **2013**.  
 - This confirmed Japan’s representation among leading institutions that year.
 
+**Explanation:**  
+- Used a `SELECT COUNT(*)` query filtered by `country = 'Japan'`, `year = 2013`, and `world_rank <= 200`.  
+- The result provides a numeric count rather than a list, summarizing Japan’s representation among the global elite that year.
+  
 <img width="265" height="73" alt="image" src="https://github.com/user-attachments/assets/d654369d-5f8d-49a8-bd2d-e55cd4f8b2d4" />
 
 ### 3. **UPDATE: Correcting University of Oxford’s Score (2014)**  
 - Adjusted **University of Oxford’s** score for **2014**, increasing it by **+1.2 points** after a miscalculation was identified.  
 - Verified the updated value reflected accurately in the dataset.
+
+**Explanation:** 
+- Used an `UPDATE` statement targeting the specific record with `institution = 'University of Oxford'` and `year = 2014`.  
+- The `SET score = score + 1.2` expression incremented the existing score.  
+- Verified the update by selecting the modified row and comparing the old and new scores.
 
 <img width="1218" height="82" alt="image" src="https://github.com/user-attachments/assets/8af936c5-2950-467b-a627-4f080e5200e0" />
 
@@ -68,8 +83,12 @@ The project covers:
 - Deleted all **2015** entries with scores **below 45**, as these universities should not have been included in the published rankings.  
 - Confirmed the cleanup by verifying no remaining low-score entries in the 2015 data.
 
-<img width="1218" height="403" alt="image" src="https://github.com/user-attachments/assets/aa047b21-65be-48d5-bc70-a288de10de16" />
+**Explanation:**  
+- A `DELETE FROM` statement was used with the condition `WHERE year = 2015 AND score < 45`.  
+- This removed only low-performing institutions from 2015, keeping all other data intact.  
+- Verified deletion by checking that no remaining 2015 records had scores under 45.
 
+<img width="1218" height="403" alt="image" src="https://github.com/user-attachments/assets/aa047b21-65be-48d5-bc70-a288de10de16" />
 
 ---
 
