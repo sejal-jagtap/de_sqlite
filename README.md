@@ -120,15 +120,15 @@ The project covers:
 
 ## 📁 Project Structure
 
-de_sqlite
+de_sqlite/
+
 |-- README.md
+
 |-- query_results
+
 |-- sql_queries.sql
+
 `-- university_database.db
 
-de_sqlite/
-├── university_rankings.db
-├── exploration.sql
-├── crud_operations.sql
-├── README.md
-└── assets/
+
+
