@@ -20,7 +20,8 @@ The project covers:
 
 ## ⚙️ Environment Setup
 
-### Option 1 — Using **DBeaver**
+### Option 1 — Using **DBeaver** 
+https://sordid-plot-c78.notion.site/Cheatsheet-Install-Dbeaver-27645dca7a3e80ac8798f30d147d8419
 1. Open DBeaver and click **Database → New Database Connection**.  
 2. Select **SQLite** from the list of available database types.  
 3. Choose your local `.db` file (e.g., `university_rankings.db`).  
@@ -28,6 +29,7 @@ The project covers:
 5. Explore data using the built-in Data tab to inspect record changes.
 
 ### Option 2 — Using **VS Code with SQLite**
+https://sordid-plot-c78.notion.site/Cheatsheet-Upload-CSV-into-SQlite-27345dca7a3e803c905df6d3aed197fd 
 1. Install the **SQLite** and **SQLTools** extensions in VS Code.  
 2. Open your project folder (`de_sqlite`).  
 3. Connect to the SQLite database file (`university_rankings.db`).  
