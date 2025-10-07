@@ -16,17 +16,17 @@ The project covers:
 - Viewed the first few rows of the dataset to confirm column names and data integrity.  
 - Counted the **total number of universities** and the **number of unique countries** represented.
 
-<img width="1549" height="211" alt="image" src="https://github.com/user-attachments/assets/307a2d6a-005d-41fa-a136-0f21894ce2ce" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/307a2d6a-005d-41fa-a136-0f21894ce2ce" />
 
-<img width="289" height="79" alt="image" src="https://github.com/user-attachments/assets/4ad2a0bb-e90b-4918-b2ed-f70fcb7c7cf7" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/4ad2a0bb-e90b-4918-b2ed-f70fcb7c7cf7" />
 
-<img width="273" height="81" alt="image" src="https://github.com/user-attachments/assets/afb94652-b569-4bc3-a5c9-50319d4fdcec" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/afb94652-b569-4bc3-a5c9-50319d4fdcec" />
 
 ### 2. **Ranking Insights**
 - Identified the **top 5 universities** by score in the **latest available year** to highlight leading institutions.  
 - Retrieved the **bottom 5 universities** for the same year to understand the score range and data spread.
 
-<img width="781" height="205" alt="image" src="https://github.com/user-attachments/assets/fd112898-2ad3-47c6-be2b-8cacb28d9ca7" />
+<img width="400" height="205" alt="image" src="https://github.com/user-attachments/assets/fd112898-2ad3-47c6-be2b-8cacb28d9ca7" />
 
 <img width="733" height="199" alt="image" src="https://github.com/user-attachments/assets/a2936ca3-b826-414b-a00d-09566f91bcef" />
 
