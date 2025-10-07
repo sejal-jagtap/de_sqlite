@@ -37,16 +37,8 @@ The project covers:
 - Counted how many universities from each country ranked within the **global top 100**, providing a global competitiveness view.
 
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/65075be9-0a2d-447c-99b9-5b9fb1c1fcd4" />
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/00587dde-8c20-46f4-a073-b7e6a35a8d42" />
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/01da7688-8f78-43e7-b219-f2490deea7fc" />
-
---------------------------------------------------------------------------------------------------------------------
 
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/c3f26434-62df-4f41-8199-d845bf64f8a8" />
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/20d1206e-f9b5-4364-b93c-489413c9673c" />
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/38f4dc88-48c1-4e2c-8328-056291d6f2d1" />
-
--------------------------------------------------------------------------------------------------------------------
 
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/e46da1c7-8630-4c7f-9cef-5629829d98f3" />
 
