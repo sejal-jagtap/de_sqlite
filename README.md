@@ -41,7 +41,7 @@ The project covers:
 ### Option 3 - Run SQL Queries in **Python**
 
 1. Install dependencies:
-   ```bash
+  
        pip install pandas
 
 2. Run Python script:
