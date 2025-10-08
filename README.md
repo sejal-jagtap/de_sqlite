@@ -15,6 +15,7 @@ The project covers:
     |-- README.md
     |-- query_results
     |-- sql_queries.sql
+    |-- sql_queries.py
     `-- university_database.db
 ---
 
