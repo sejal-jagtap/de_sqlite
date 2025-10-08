@@ -21,7 +21,7 @@ The project covers:
 
 ## ⚙️ Environment Setup
 
-### Option 1 — Using **DBeaver** 
+### Option 1 - Using **DBeaver** 
 
 1. Open DBeaver and click **Database → New Database Connection**.  
 2. Select **SQLite** from the list of available database types.  
@@ -29,7 +29,7 @@ The project covers:
 4. Once connected, open a new **SQL Editor** and run the provided queries (`sql_queries.sql`).   
 5. Explore data using the built-in Data tab to inspect record changes.
 
-### Option 2 — Using **VS Code with SQLite**
+### Option 2 - Using **VS Code with SQLite**
 
 1. Install the **SQLite** and **SQLTools** extensions in VS Code.  
 2. Open your project folder (`de_sqlite`).  
@@ -37,6 +37,16 @@ The project covers:
 4. Open the `.sql` file (e.g., `sql_queries.sql`) and run statements directly using **“Run Query”**.  
 5. View results in the output panel or via the SQLTools results tab.  
 6. Save changes automatically reflected in the same `.db` file.
+
+### Option 3 - Run SQL Queries in **Python**
+
+1. Install dependencies:
+   ```bash
+       pip install pandas
+
+2. Run Python script:
+
+       python run_sql_analysis.py
 
 ---
 
