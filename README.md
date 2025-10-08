@@ -46,7 +46,7 @@ The project covers:
 
 2. Run Python script:
 
-       python run_sql_queries.py
+       python sql_queries.py
 
 ---
 
